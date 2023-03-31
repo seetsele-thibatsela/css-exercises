@@ -1,0 +1,19 @@
+.odd {
+    background-color:rgb(255, 169, 200);
+    font-family: "Verdana", "DejaVi Sans", sans-serif;
+}
+
+#unique {
+    color: blue;
+    font-size: 32px;
+}
+
+.additional {
+    font-size: 24px;
+}
+
+#single {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: 700;
+}
